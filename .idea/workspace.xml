@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f4da486-05f4-4ab9-a2d0-faa2fee37af3" name="Changes" comment="Practise file 2 added">
-      <change afterPath="$PROJECT_DIR$/src/Practise/P003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practise/P004.py" afterDir="false" />
+    <list default="true" id="1f4da486-05f4-4ab9-a2d0-faa2fee37af3" name="Changes" comment="Adding Practise file upto 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/P006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/P006.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,9 @@
     "Python.P004.executor": "Run",
     "Python.P005.executor": "Run",
     "Python.P006.executor": "Run",
+    "Python.P007.executor": "Run",
+    "Python.P008.executor": "Run",
+    "Python.P009.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
@@ -115,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743362432238</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding Practise file upto 6">
+      <option name="closed" value="true" />
+      <created>1743623887402</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743623887402</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,6 +133,7 @@
     <MESSAGE value="Practice file - Lab 2 added" />
     <MESSAGE value="Practise files added" />
     <MESSAGE value="Practise file 2 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practise file 2 added" />
+    <MESSAGE value="Adding Practise file upto 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Practise file upto 6" />
   </component>
 </project>
