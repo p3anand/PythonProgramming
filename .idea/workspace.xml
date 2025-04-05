@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f4da486-05f4-4ab9-a2d0-faa2fee37af3" name="Changes" comment="Adding practise files">
+    <list default="true" id="1f4da486-05f4-4ab9-a2d0-faa2fee37af3" name="Changes" comment="Committed changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/P001-Print().py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/P002-Variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/P003-Math functions &amp; Literals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/P004-input() &amp; string formatting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/P005-Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/P006-Exercise(math functions - pow,max).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P007.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/P007-Literals &amp; Escape Sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P008.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/P008-Operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P009.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/P009-Exercise (math functions).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/P011-Loops Exercise(if-else &amp; if-elif-else).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/P011-Conditions Exercise(if-else &amp; if-elif-else).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +61,13 @@
     "Python.P012-Exercise(Grade Calculator).executor": "Run",
     "Python.P013-Exercise(Leap Year).executor": "Run",
     "Python.P014-Exercise(Triangle Classifier).executor": "Run",
+    "Python.P015-Loops.executor": "Run",
+    "Python.P016-Loops-While.executor": "Run",
+    "Python.P017-Break,Pass and Continue.executor": "Run",
+    "Python.P018-Match (Switch in java).executor": "Run",
+    "Python.P019-Exercise(FizzBuzz-For Loop).executor": "Run",
+    "Python.P020-Exercise(Factorial Series).executor": "Run",
+    "Python.P021-Exercise(Fibonaci series).executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
@@ -175,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743712788138</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Committed changes">
+      <option name="closed" value="true" />
+      <created>1743866678359</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743866678359</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,6 +192,7 @@
     <MESSAGE value="Practise file 2 added" />
     <MESSAGE value="Adding Practise file upto 6" />
     <MESSAGE value="Adding practise files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding practise files" />
+    <MESSAGE value="Committed changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committed changes" />
   </component>
 </project>
