@@ -20,3 +20,9 @@ if year%4==0:
         print(f"{year} is a Leap year")
 else:
     print(f"{year} is a not a Leap year")
+
+#Concept for leap year
+# Each year that is a multiple of 4, except for years
+# - evenly divisible by 100 but not by 400
+# One line condition
+# if((year % 4==0 and year % 100! = 0)) or year % 400 == 0):
