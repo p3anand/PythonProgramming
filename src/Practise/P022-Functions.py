@@ -56,4 +56,4 @@ print("-------------")
 # With *args
 def print_arguments(*args):
     print(args[1])
-print_arguments("a","Test","456","d","e")
+print_arguments("a","Test","456","d","e", True, False)

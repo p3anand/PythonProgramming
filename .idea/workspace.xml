@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1f4da486-05f4-4ab9-a2d0-faa2fee37af3" name="Changes" comment="Commit - files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P013-Exercise(Leap Year).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/P013-Exercise(Leap Year).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P021-Exercise(Fibonacci series).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/P021-Exercise(Fibonacci series).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/P022-Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/P022-Functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +70,15 @@
     "Python.P021-Exercise(Fibonaci series).executor": "Run",
     "Python.P022-Functions.executor": "Run",
     "Python.P023-Exercise(Functions - Sum of 3 numbers).executor": "Run",
+    "Python.P024-Decorators.executor": "Run",
+    "Python.P024-Functions with Unlimited arguments.executor": "Run",
+    "Python.P025-Scope of functions.executor": "Run",
+    "Python.P026-Passing list as parameter & list functions.executor": "Run",
+    "Python.P027-Decorators.executor": "Run",
+    "Python.P028-Decorator - to calculate time taken for execution.executor": "Run",
+    "Python.P029-Chaining Decorators.executor": "Run",
+    "Python.P030-Type Convertions.executor": "Run",
+    "Python.P031-Lambda Expressions.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
