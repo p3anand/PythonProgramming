@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1f4da486-05f4-4ab9-a2d0-faa2fee37af3" name="Changes" comment="Commit - files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P022-Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/P022-Functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +78,11 @@
     "Python.P029-Chaining Decorators.executor": "Run",
     "Python.P030-Type Convertions.executor": "Run",
     "Python.P031-Lambda Expressions.executor": "Run",
+    "Python.P032-List & List operations.executor": "Run",
+    "Python.P032-List.executor": "Run",
+    "Python.P033-Tuple.executor": "Run",
+    "Python.P034-Set.executor": "Run",
+    "Python.P035-Dictionary.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
@@ -201,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743876499878</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Commit - files">
+      <option name="closed" value="true" />
+      <created>1744742122938</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1744742122938</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
