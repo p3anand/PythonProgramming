@@ -6,51 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1f4da486-05f4-4ab9-a2d0-faa2fee37af3" name="Changes" comment="Commit - files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P001-Print().py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P001-Print().py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P002-Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P002-Variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P003-Math functions &amp; Literals.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P003-Math functions &amp; Literals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P004-input() &amp; string formatting.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P004-input() &amp; string formatting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P005-Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P005-Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P006-Exercise(math functions - pow,max).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P006-Exercise(math functions - pow,max).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P007-Literals &amp; Escape Sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P007-Literals &amp; Escape Sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P008-Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P008-Operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P009-Exercise (math functions).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P009-Exercise (math functions).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P010-Exercises(square, cube, greater, lesser and equal of numbers).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P010-Exercises(square, cube, greater, lesser and equal of numbers).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P011-Conditions Exercise(if-else &amp; if-elif-else).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P011-Conditions Exercise(if-else &amp; if-elif-else).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P012-Exercise(Grade Calculator).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P012-Exercise(Grade Calculator).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P013-Exercise(Leap Year).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P013-Exercise(Leap Year).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P014-Exercise(Triangle Classifier).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P014-Exercise(Triangle Classifier).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P015-Loops-For.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P015-Loops-For.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P016-Loops-While.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P016-Loops-While.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P017-Break,Pass and Continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P017-Break,Pass and Continue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P018-Match (Switch in java).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P018-Match (Switch in java).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P019-Exercise(FizzBuzz-For Loop).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P019-Exercise(FizzBuzz-For Loop).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P020-Exercise(Factorial Series).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P020-Exercise(Factorial Series).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P021-Exercise(Fibonacci series).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P021-Exercise(Fibonacci series).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P022-Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P022-Functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P023-Exercise(Functions - Sum of 3 numbers).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P023-Exercise(Functions - Sum of 3 numbers).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P024-Functions with Unlimited arguments.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P024-Functions with Unlimited arguments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P025-Scope of variables &amp; functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P025-Scope of variables &amp; functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P026-Passing list as parameter &amp; list functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P026-Passing list as parameter &amp; list functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P027-Decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P027-Decorators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P028-Decorator - Calculate test execution time.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P028-Decorator - Calculate test execution time.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P029-Chaining Decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P029-Chaining Decorators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P030-Type Convertions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P030-Type Convertions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P031-Lambda Expressions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P031-Lambda Expressions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P032-List &amp; List operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P032-List &amp; List operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P033-Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P033-Tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P034-Set.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P034-Set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P035-Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P035-Dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P036-OOP-Class &amp; Objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P036-OOP-Class &amp; Objects.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P037-Constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P037-Constructor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P038-OOP-Taking user input in constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P038-OOP-Taking user input in constructor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P039-Exercise(Calculator using Class &amp; Objects).py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P039-Exercise(Calculator using Class &amp; Objects).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P040-Encapsulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P040-Encapsulation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P041-Inheritance-Single Inhertiance.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P041-Inheritance-Single Inhertiance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P042-Inheritance-Multi Level Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P042-Inheritance-Multi Level Inheritance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P043-Inheritance-Mutliple Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P043-Inheritance-Mutliple Inheritance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P044-Inheritance-Hierarchical Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P044-Inheritance-Hierarchical Inheritance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practise/P045-Inheritane-Hybrid Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P045-Inheritane-Hybrid Inheritance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,6 +112,8 @@
     "Python.P062-File Operations-Reading CSV File.executor": "Run",
     "Python.P064-Modules-File2.executor": "Run",
     "Python.P065-Packages.executor": "Run",
+    "Python.P066-Collections.executor": "Run",
+    "Python.P067-OrderedDict.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
@@ -295,7 +252,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744984881437</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Commit - files">
+      <option name="closed" value="true" />
+      <created>1745013432797</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1745013432797</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Commit - files">
+      <option name="closed" value="true" />
+      <created>1745013444403</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1745013444403</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
