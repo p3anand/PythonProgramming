@@ -1,6 +1,7 @@
 #Basic Data Structure - List, Set, Tuple, Dict
 #Advanced Collections - deque, defaultDict, Counter, OrderedDict, ChainMap, namedTUPLE
 
+#Advanced version of list
 #DEQUE - Double Ended Queue | follows FIFO (First-In-First-Out)
 from collections import deque
 

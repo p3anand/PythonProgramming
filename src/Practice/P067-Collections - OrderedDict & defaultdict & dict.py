@@ -21,5 +21,6 @@ od['kiwi'] = 3
 print(od)
 
 #defaultdict
+#This is a default dictionary
 dd=defaultdict(int)
 print(dd)
