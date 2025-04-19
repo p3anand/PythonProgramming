@@ -1,6 +1,6 @@
 # STATIC METHODS
 # A static method is a method that belongs to a class rather than an object
-
+#Does not require object creation. Should be called along with class name.
 class MathOperations():
 
     def div(self,a,b):
