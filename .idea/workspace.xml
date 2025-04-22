@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1f4da486-05f4-4ab9-a2d0-faa2fee37af3" name="Changes" comment="Commit - files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/P050-Static Methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P050-Static Methods.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,83 +43,85 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P012-Exercise(Grade Calculator).executor&quot;: &quot;Run&quot;,
-    &quot;Python.P013-Exercise(Leap Year).executor&quot;: &quot;Run&quot;,
-    &quot;Python.P014-Exercise(Triangle Classifier).executor&quot;: &quot;Run&quot;,
-    &quot;Python.P015-Loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P016-Loops-While.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P017-Break,Pass and Continue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P018-Match (Switch in java).executor&quot;: &quot;Run&quot;,
-    &quot;Python.P019-Exercise(FizzBuzz-For Loop).executor&quot;: &quot;Run&quot;,
-    &quot;Python.P020-Exercise(Factorial Series).executor&quot;: &quot;Run&quot;,
-    &quot;Python.P021-Exercise(Fibonaci series).executor&quot;: &quot;Run&quot;,
-    &quot;Python.P022-Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P023-Exercise(Functions - Sum of 3 numbers).executor&quot;: &quot;Run&quot;,
-    &quot;Python.P024-Decorators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P024-Functions with Unlimited arguments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P025-Scope of functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P026-Passing list as parameter &amp; list functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P027-Decorators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P028-Decorator - to calculate time taken for execution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P029-Chaining Decorators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P030-Type Convertions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P031-Lambda Expressions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P032-List &amp; List operations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P032-List.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P033-Tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P034-Set.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P035-Dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P036-OOPS Concepts.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P037-Constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P038-Exercise(Class + Object + Constructor).executor&quot;: &quot;Run&quot;,
-    &quot;Python.P039-Exercise(Calculator using Class &amp; Objects).executor&quot;: &quot;Run&quot;,
-    &quot;Python.P040-Encapsulation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P041-Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P042-Inheritance-Multi Level Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P043-Inheritance-Mutliple Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P044-Inheritance-Hierarchical Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P045-Inheritane- Hybrid Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P046-Polymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P047-Polymorphism-Method Overloading.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P048-Abstraction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P049-Abstraction - Examples.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P050-Static Methods &amp; Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P051-Exceptions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P052-Exception Handling.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P053-Exceptions-Try-Except-Finally.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P054-File Operations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P054-Files.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P056-File Operations when file in different package.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P057-OS Module.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P058-Exceptions in Class.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P059-User Defined Exceptions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P060-Main Function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P061-Multiple Functions in main().executor&quot;: &quot;Run&quot;,
-    &quot;Python.P062-File Operations-Reading CSV File.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P064-Modules-File2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P065-Packages.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P066-Collections.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P067-OrderedDict.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for Test_P068-PyTest.test_verify_sub.executor": "Run",
+    "Python tests.Python tests for Test_P068-PyTest.test_verify_sum.executor": "Run",
+    "Python.Lab 1.executor": "Run",
+    "Python.Lab 2.executor": "Run",
+    "Python.Lab 3.executor": "Run",
+    "Python.P003.executor": "Run",
+    "Python.P004.executor": "Run",
+    "Python.P005.executor": "Run",
+    "Python.P006.executor": "Run",
+    "Python.P007.executor": "Run",
+    "Python.P008.executor": "Run",
+    "Python.P009.executor": "Run",
+    "Python.P010.executor": "Run",
+    "Python.P011.executor": "Run",
+    "Python.P012-Exercise(Grade Calculator).executor": "Run",
+    "Python.P013-Exercise(Leap Year).executor": "Run",
+    "Python.P014-Exercise(Triangle Classifier).executor": "Run",
+    "Python.P015-Loops.executor": "Run",
+    "Python.P016-Loops-While.executor": "Run",
+    "Python.P017-Break,Pass and Continue.executor": "Run",
+    "Python.P018-Match (Switch in java).executor": "Run",
+    "Python.P019-Exercise(FizzBuzz-For Loop).executor": "Run",
+    "Python.P020-Exercise(Factorial Series).executor": "Run",
+    "Python.P021-Exercise(Fibonaci series).executor": "Run",
+    "Python.P022-Functions.executor": "Run",
+    "Python.P023-Exercise(Functions - Sum of 3 numbers).executor": "Run",
+    "Python.P024-Decorators.executor": "Run",
+    "Python.P024-Functions with Unlimited arguments.executor": "Run",
+    "Python.P025-Scope of functions.executor": "Run",
+    "Python.P026-Passing list as parameter & list functions.executor": "Run",
+    "Python.P027-Decorators.executor": "Run",
+    "Python.P028-Decorator - to calculate time taken for execution.executor": "Run",
+    "Python.P029-Chaining Decorators.executor": "Run",
+    "Python.P030-Type Convertions.executor": "Run",
+    "Python.P031-Lambda Expressions.executor": "Run",
+    "Python.P032-List & List operations.executor": "Run",
+    "Python.P032-List.executor": "Run",
+    "Python.P033-Tuple.executor": "Run",
+    "Python.P034-Set.executor": "Run",
+    "Python.P035-Dictionary.executor": "Run",
+    "Python.P036-OOPS Concepts.executor": "Run",
+    "Python.P037-Constructor.executor": "Run",
+    "Python.P038-Exercise(Class + Object + Constructor).executor": "Run",
+    "Python.P039-Exercise(Calculator using Class & Objects).executor": "Run",
+    "Python.P040-Encapsulation.executor": "Run",
+    "Python.P041-Inheritance.executor": "Run",
+    "Python.P042-Inheritance-Multi Level Inheritance.executor": "Run",
+    "Python.P043-Inheritance-Mutliple Inheritance.executor": "Run",
+    "Python.P044-Inheritance-Hierarchical Inheritance.executor": "Run",
+    "Python.P045-Inheritane- Hybrid Inheritance.executor": "Run",
+    "Python.P046-Polymorphism.executor": "Run",
+    "Python.P047-Polymorphism-Method Overloading.executor": "Run",
+    "Python.P048-Abstraction.executor": "Run",
+    "Python.P049-Abstraction - Examples.executor": "Run",
+    "Python.P050-Static Methods & Variables.executor": "Run",
+    "Python.P051-Exceptions.executor": "Run",
+    "Python.P052-Exception Handling.executor": "Run",
+    "Python.P053-Exceptions-Try-Except-Finally.executor": "Run",
+    "Python.P054-File Operations.executor": "Run",
+    "Python.P054-Files.executor": "Run",
+    "Python.P056-File Operations when file in different package.executor": "Run",
+    "Python.P057-OS Module.executor": "Run",
+    "Python.P058-Exceptions in Class.executor": "Run",
+    "Python.P059-User Defined Exceptions.executor": "Run",
+    "Python.P060-Main Function.executor": "Run",
+    "Python.P061-Multiple Functions in main().executor": "Run",
+    "Python.P062-File Operations-Reading CSV File.executor": "Run",
+    "Python.P064-Modules-File2.executor": "Run",
+    "Python.P065-Packages.executor": "Run",
+    "Python.P066-Collections.executor": "Run",
+    "Python.P067-OrderedDict.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for Test_P068-PyTest.test_verify_sub">
     <configuration name="P012-Exercise(Grade Calculator)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProgramming" />
       <option name="ENV_FILES" value="" />
@@ -143,8 +144,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for Test_P068-PyTest.test_verify_sub" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonProgramming" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_P068-PyTest.test_verify_sub&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Test_P068-PyTest.test_verify_sum" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonProgramming" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_P068-PyTest.test_verify_sum&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for Test_P068-PyTest.test_verify_sub" />
+        <item itemvalue="Python tests.Python tests for Test_P068-PyTest.test_verify_sum" />
         <item itemvalue="Python.P012-Exercise(Grade Calculator)" />
       </list>
     </recent_temporary>
@@ -285,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745015758041</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Commit - files">
+      <option name="closed" value="true" />
+      <created>1745057410344</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1745057410344</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
