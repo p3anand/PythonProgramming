@@ -47,6 +47,7 @@
   "keyToString": {
     "Python tests.Python tests for Test_P068-PyTest.test_verify_sub.executor": "Run",
     "Python tests.Python tests for Test_P068-PyTest.test_verify_sum.executor": "Run",
+    "Python tests.Python tests in Test_P075-Reading a CSV file.py.executor": "Run",
     "Python.Lab 1.executor": "Run",
     "Python.Lab 2.executor": "Run",
     "Python.Lab 3.executor": "Run",
@@ -121,7 +122,12 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for Test_P068-PyTest.test_verify_sub">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Preethi_Anand\PycharmProjects\PythonProgramming\src\Practice" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="P012-Exercise(Grade Calculator)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProgramming" />
       <option name="ENV_FILES" value="" />
@@ -326,7 +332,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745057410344</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Commit - files">
+      <option name="closed" value="true" />
+      <created>1745360507221</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1745360507221</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
